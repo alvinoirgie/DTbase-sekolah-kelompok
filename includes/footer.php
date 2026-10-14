@@ -1,0 +1,1 @@
+</section><footer class="footer">© <?= date('Y') ?> SIS Sekolah <span>Dibuat untuk pengelolaan data yang lebih mudah.</span></footer></main></div><script src="/sis-sekolah/assets/js/script.js"></script></body></html>
